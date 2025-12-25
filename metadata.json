@@ -1,0 +1,5 @@
+{
+  "name": "QueryQuant",
+  "description": "A comprehensive dashboard to track your daily AI interactions. Features a built-in Gemini chat interface that auto-tracks usage, plus manual logging for external tools like ChatGPT.",
+  "requestFramePermissions": []
+}
