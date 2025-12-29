@@ -100,7 +100,7 @@ npm -v
 ## 1) Clone the repository
 
 ```bash
-git clone https://github.com/UrBaneeee/queryquant.git
+git clone https://github.com/UrBaneee/queryquant.git
 cd queryquant
 ```
 
